@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Food-Mid-Kt</string>
+    <string name="gopud_festival">Gopud Festival</string>
+    <string name="_4_5">4.5</string>
+    <string name="_4_5_kilometer">4.5 km</string>
+    <string name="_200_ratings">200 ratings</string>
+    <string name="in_30_minutes">in 30 min</string>
+    <string name="_3_49k">3 - 49k</string>
+    <string name="your_order">Your order:</string>
+    <string name="textview">TextView</string>
+    <string name="order">order</string>
+    <string name="add">add</string>
+    <string name="price">price</string>
+    <string name="foood_name">Foood name</string>
+    <string name="foood_desc">Foood desc</string>
+    <string name="your_order2">Your Order</string>
+    <string name="coupons">Coupons</string>
+    <string name="discount_20">Discount 20%</string>
+    <string name="discount_50">Discount 50%</string>
+    <string name="pay">pay</string>
+    <string name="payment_summary">Payment Summary</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="coupon">Coupon</string>
+    <string name="total_payment">Total Payment</string>
+    <string name="discount_75">Discount 75%</string>
+    <string name="_5000">-5000</string>
+    <string name="_10000">-10000</string>
+    <string name="_20000">-20000</string>
+    <string name="payment_success">Payment Success!</string>
+    <string name="order_details">Order Details</string>
+    <string name="new_order">New Order</string>
+</resources>
